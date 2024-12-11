@@ -14,5 +14,8 @@ Sou estudande de Desenvolvimento de Jogos e Sites.
 * Infelizmente, não possuo projetos aqui no meu [perfil do GitHub](https://github.com/danilomenon)
 * Estarei usando meu perfil para compartilhar e documentar meu aprendizado com aquelas pessoas que estão dando os primeiros passo na **Área de Tecnologia** 🤓
 
+**Novo em alguma linguagem?**
+* Comece por [JavaScript](https://github.com/danilomenon/curso-javascript)
+
 **Contato:**
 * ...
