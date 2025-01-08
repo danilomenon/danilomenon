@@ -1,21 +1,20 @@
-# Olá, eu sou o [Danilo Menon]!
+## Danilo Menon
+**Game and Web Developer**
 
-![Seu avatar](seu_avatar.png)
+I'm Danilo, a developer passionate about creating interactive experiences. 
 
-Sou estudande de Desenvolvimento de Jogos e Sites.
+**Skills:**
+* **Languages:** JavaScript, Python, HTML5, CSS3
+* **Tools:** Git, [other tools]
 
-**Linguagens:**
+**Projects:**
+* **[Project Name]:** [Brief description, link to repo]
+* **[Project Name]:** [Brief description, link to repo]
 
-[![JavaScript](https://img.shields.io/badge/javascript-%26%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=%23ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
+**Currently learning:** [Mention specific technologies or concepts you're studying]
 
-**Projetos:**
-* Infelizmente, não possuo projetos aqui no meu [perfil do GitHub](https://github.com/danilomenon)
-* Estarei usando meu perfil para compartilhar e documentar meu aprendizado com aquelas pessoas que estão dando os primeiros passo na **Área de Tecnologia** 🤓
+[![JavaScript](https://img.shields.io/badge/javascript-%26%333330.svg?style=for-the-badge&logo=javascript&logoColor=%33F7DF1E)](https://www.javascript.com/)
+[![Python](https://shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://shields.io/https://shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=%33ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
 
-**Novo em alguma linguagem?**
-* Comece por [JavaScript](https://github.com/danilomenon/curso-javascript)
-
-**Contato:**
-* ...
+**Let's connect:**
