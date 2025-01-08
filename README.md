@@ -15,6 +15,6 @@ I'm Danilo, a developer passionate about creating interactive experiences.
 
 [![JavaScript](https://img.shields.io/badge/javascript-%26%333330.svg?style=for-the-badge&logo=javascript&logoColor=%33F7DF1E)](https://www.javascript.com/)
 [![Python](https://shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Texto alternativo](caminho/para/a/imagem.png))
+[![Texto alternativo](caminho/para/a/imagem.png)
 
 **Let's connect:**
