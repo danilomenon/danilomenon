@@ -1,21 +1,15 @@
-## Danilo Menon
-**Game and Web Developer**
+# Gustavo Mendes  
+**Game and Web Developer**  
 
-I'm Danilo, a developer passionate about creating interactive experiences. 
+I'm Gustavo, a beginner developer passionate about creating interactive experiences. Currently, I share my JavaScript studies and will soon add content from my Python learning journey.
 
-**Skills:**
-* **Languages:** JavaScript, Python, HTML5, CSS3
-* **Tools:** Git, [other tools]
+## Skills  
+**Languages:**  
+JavaScript, Python (learning), HTML5, CSS3  
 
-**Projects:**
-* **[Project Name]:** [Brief description, link to repo]
-* **[Project Name]:** [Brief description, link to repo]
+**Tools:**  
+Git, GitHub, VS Code, Node.js (basic use), Canva  
 
-**Currently learning:** [Mention specific technologies or concepts you're studying]
-
-[![JavaScript](https://img.shields.io/badge/javascript-%26%333330.svg?style=for-the-badge&logo=javascript&logoColor=%33F7DF1E)](https://www.javascript.com/)
-[![Python](https://shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Let's connect:**
+## Highlighted Repositories  
+- **[JavaScript Course](https://github.com/danilomenon/curso-javascript):** Repository with content from the beginner's JavaScript course.  
+- *Python coming soon...*
