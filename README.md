@@ -15,4 +15,4 @@ Git, GitHub, VS Code, Node.js (basic use), Canva
 
 ## Highlighted Repositories  
 - **[JavaScript Course](https://github.com/danilomenon/curso-javascript):** Repository with content from the beginner's JavaScript course.  
-- *Python coming soon...*
+- **[Python Course](https://github.com/danilomenon/curso-python):**
