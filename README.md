@@ -5,7 +5,7 @@ Hi! I'm Danilo, a developer passionate about creating interactive experiences. C
 
 ## Skills  
 **Languages:**  
-<a href="href="https://github.com/danilomenon/curso-javascript"><img src="https://img.shields.io/badge/javascript-%26%333330.svg?style=for-the-badge&logo=javascript&logoColor=%33F7DF1E" width="120" height="30"></a>
+<a href="href="https://github.com/danilomenon/curso-javascript"><img> src="https://img.shields.io/badge/javascript-%26%333330.svg?style=for-the-badge&logo=javascript&logoColor=%33F7DF1E" width="120" height="30"></a>
 <a href="https://github.com/danilomenon/curso-python"><img src="https://shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" width="120" height="30"></a>
 <a href="https://github.com/seuusuario/html5-estudos"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="120" height="30"></a>
 <a href="https://github.com/seuusuario/css3-estudos"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="120" height="30"></a>
