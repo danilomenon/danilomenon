@@ -16,4 +16,4 @@ Git, GitHub, VS Code, Node.js (basic use), Canva, UPBGE
 ## Highlighted Repositories  
 - **[JavaScript Course](https://github.com/danilomenon/curso-javascript):** Repository with content from the beginner's JavaScript course.  
 - **[Python Course](https://github.com/danilomenon/curso-python):** Repository with content and projects from my beginner's Python course.
-- **[Commands Git] (https://github.com/danilomenon/learn-git/blob/main/git-basics-commands.md):** Repository with Git command content.
+- **[Commands Git](https://github.com/danilomenon/learn-git/blob/main/git-basics-commands.md):** Repository with Git command content.
